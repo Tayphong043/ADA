@@ -1,7 +1,0 @@
-discord
-pyyaml
-sqlalchemy
-tabulate
-pytest
-pytest-cov
-
